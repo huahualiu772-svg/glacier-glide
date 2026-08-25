@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+
+# Minecraft dev runtime (run folder contains the actual game client/server)
+run/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
